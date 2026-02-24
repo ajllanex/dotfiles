@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/ajllanez/Projects/users-vanilla-app'
+let g:netrw_dirhist_7='/home/ajllanez/.npm/_cacache/content-v2/sha512/00/17'
+let g:netrw_dirhist_6='/home/ajllanez/.npm/_cacache/content-v2/sha512/00'
+let g:netrw_dirhist_5='/home/ajllanez/.npm/_cacache/content-v2/sha512'
+let g:netrw_dirhist_4='/home/ajllanez/.npm/_cacache/content-v2'
+let g:netrw_dirhist_3='/home/ajllanez/.npm/_cacache'
+let g:netrw_dirhist_2='/home/ajllanez/.npm'
+let g:netrw_dirhist_1='/home/ajllanez'
