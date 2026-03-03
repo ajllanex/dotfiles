@@ -5,6 +5,7 @@ Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --producti
 Plug 'preservim/nerdtree'
 Plug 'doums/darcula'
 Plug 'ryanoasis/vim-devicons'
+Plug 'vim-airline/vim-airline'
 call plug#end()
 
 "General options
